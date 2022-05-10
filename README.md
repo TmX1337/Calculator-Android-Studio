@@ -14,4 +14,6 @@ dodałem to moich textview ten kolor za pomocą komendy background.
 
 W mainie stworzyłem Private button dla przycisków potem nadałem im wszystkim funkcje FindViewById następnie ustaliłem co ma się wyświetlać po
 naciśnięciu przycisków z liczbami a potem nadałem działania matematyczne do przycisków takich jak + albo =
+
+
 ![image](https://user-images.githubusercontent.com/77391158/167732845-edb7af4a-5dd2-4267-a9b7-d99d0ae975c3.png)
